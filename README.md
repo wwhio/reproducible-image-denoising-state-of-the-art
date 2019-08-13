@@ -65,7 +65,6 @@ This collection is inspired by the [summary by flyywh](https://github.com/flyywh
    * L_p-Norm Constrained Coding With Frank-Wolfe Network (Arxiv), Sun et al.
  * NLCNN [[Web]](https://cig.skoltech.ru/publications) [[Code]](https://github.com/cig-skoltech/NLNet) [[PDF]](http://www.skoltech.ru/app/data/uploads/sites/19/2017/06/1320.pdf)
    * Non-Local Color Image Denoising with Convolutional Neural Networks (CVPR 2017), Lefkimmiatis.
-
  * Deep image prior [[Web]](https://dmitryulyanov.github.io/deep_image_prior) [[Code]](https://github.com/DmitryUlyanov/deep-image-prior) [[PDF]](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf)
    * Deep Image Prior (CVPR 2018), Ulyanov et al.
  * xUnit [[Web]](https://github.com/kligvasser/xUnit) [[Code]](https://github.com/kligvasser/xUnit) [[PDF]](https://arxiv.org/pdf/1711.06445.pdf)
@@ -76,7 +75,7 @@ This collection is inspired by the [summary by flyywh](https://github.com/flyywh
    * Multi-level Wavelet-CNN for Image Restoration (Arxiv), Liu et al.  
  * FFDNet [[Web]](https://github.com/cszn/FFDNet/) [[Code]](https://github.com/cszn/FFDNet/) [[PDF]](https://arxiv.org/abs/1710.04026)
    * FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising (TIP), Zhang et al.
- * FC-AIDE [[Web]](https://github.com/csm9493/FC-AIDE) [[Code]](https://github.com/GuoShi28/CBDNet) [[PDF]](https://arxiv.org/pdf/1807.07569.pdf)
+ * FC-AIDE [[Web]](https://github.com/csm9493/FC-AIDE) [[Code]](https://github.com/csm9493/FC-AIDE) [[PDF]](https://arxiv.org/pdf/1807.07569.pdf)
    * Fully Convolutional Pixel Adaptive Image Denoiser (Arxiv), Cha et al.  
  * CBDNet [[Web]](https://github.com/GuoShi28/CBDNet) [[Code]](https://github.com/GuoShi28/CBDNet) [[PDF]](https://arxiv.org/pdf/1807.04686.pdf)
    * Toward Convolutional Blind Denoising of Real Photographs (Arxiv), Guo et al.  
@@ -88,7 +87,8 @@ This collection is inspired by the [summary by flyywh](https://github.com/flyywh
    * Neural Nearest Neighbors Networks (NIPS 2018), Plotz et al.  
  * NLRN [[Web]](https://github.com/Ding-Liu/NLRN) [[Code]](https://github.com/Ding-Liu/NLRN) [[PDF]](https://arxiv.org/pdf/1806.02919.pdf)
    * Non-Local Recurrent Network for Image Restoration (NIPS 2018), Liu et al.
-
+ * RDN+ [[Web]](https://github.com/yulunzhang/RDN) [[Code]](https://github.com/yulunzhang/RDN) [[PDF]](https://arxiv.org/abs/1812.10477)
+   * Residual Dense Network for Image Restoration (CVPR 2018), Zhang et al.
    
 #### Sparsity and Low-rankness Combined
  * STROLLR-2D [[PDF]](http://transformlearning.csl.illinois.edu/assets/Bihan/ConferencePapers/BihanICASSP2017strollr.pdf) [[Code]](https://github.com/wenbihan/strollr2d_icassp2017) 
@@ -97,7 +97,8 @@ This collection is inspired by the [summary by flyywh](https://github.com/flyywh
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf) [[Code]](https://github.com/wenbihan/DeepDenoising) 
    * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach (IJCAI 2018), Liu et al.
-
+ * USA [[PDF]](https://arxiv.org/pdf/1905.08965.pdf) [[Code]](https://github.com/sharonwang1/seg_denoising) 
+   * Segmentation-aware Image Denoising Without Knowing True Segmentation (Arxiv), Wang et al.
 
 #### Image Noise Level Estimation
  * SINLE [[PDF]](http://www.ok.sc.e.titech.ac.jp/res/NLE/TIP2013-noise-level-estimation06607209.pdf) [[Code]](https://www.mathworks.com/matlabcentral/fileexchange/36921-noise-level-estimation-from-a-single-image) [[Slides]](https://wwwpub.zih.tu-dresden.de/~hh3/Hauptsem/SS16/noise.pdf)
